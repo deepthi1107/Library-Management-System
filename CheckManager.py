@@ -1,5 +1,5 @@
 from models import Checkout
-from storage import Storage
+from Storage import Storage
 
 class CheckManager:
     """
