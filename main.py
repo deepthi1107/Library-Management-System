@@ -5,9 +5,9 @@ through a menu-driven interface, allowing users to add, update, delete, list, an
 books in and out.
 """
 
-from book import BookManager
-from user import UserManager
-from check import CheckManager
+from BookManager import BookManager
+from UserManager import UserManager
+from CheckManager import CheckManager
 
 def main_menu():
     print("="*50)
