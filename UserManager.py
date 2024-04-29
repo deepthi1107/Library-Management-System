@@ -1,5 +1,5 @@
 from models import User
-from storage import Storage
+from Storage import Storage
 
 class UserManager:
     """
